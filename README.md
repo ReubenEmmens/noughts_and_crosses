@@ -3,3 +3,6 @@ This is a simple game of noughts and crosses. The player is 'x' and the computer
 
 To do:
 - Catch when users input an invalid number, i.e. greater than the valid range of 1-9. At the moment it assumes this was a valid number number chosen twice.
+
+Playable on replit:
+https://replit.com/@Emmental/noughtsandcrosses#main.py
